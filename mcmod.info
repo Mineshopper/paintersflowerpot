@@ -1,0 +1,17 @@
+[
+{
+  "modid": "paintersflowerpot",
+  "name": "Painter's Flower Pot",
+  "description": "Adds a dyeable, coverable flower pot that also has the ability to display countless soil types and plant types.",
+  "version": "1.59",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "credits": "By Mineshopper",
+  "authorList": [ "Mineshopper" ],
+  "logoFile": "",
+  "screenshots":[],
+  "parent":"",
+  "dependencies":[ "after:BiomesOPlenty" ]
+}
+]
